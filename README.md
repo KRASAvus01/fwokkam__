@@ -2,10 +2,8 @@
 
 ## Table of Contents
 
-- [About](#about)
-- [Getting Started](#getting_started)
-- [Usage](#usage)
-- [Contributing](../CONTRIBUTING.md)
+- [О проекте](#О проекте)
+- [Getting Started](#Начало)
 
 ## About <a name = "about"></a>
 
