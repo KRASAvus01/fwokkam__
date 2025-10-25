@@ -5,11 +5,11 @@
 - [О проекте](#Опроекте)
 - [Начало](#Начало)
 
-## About <a name = "about"></a>
+## О проекте <a name = "about"></a>
 
 Описание анализа данных
 
-## Getting Started <a name = "getting_started"></a>
+## Начало <a name = "getting_started"></a>
 
 Краткий итог (что сделано)
 
