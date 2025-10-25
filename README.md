@@ -2,8 +2,8 @@
 
 ## Table of Contents
 
-- [О проекте](#О проекте)
-- [Getting Started](#Начало)
+- [О проекте](#Опроекте)
+- [Начало](#Начало)
 
 ## About <a name = "about"></a>
 
